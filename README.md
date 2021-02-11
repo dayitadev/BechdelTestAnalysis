@@ -7,4 +7,6 @@ The Bechdel Test is intended to measure the representation of women in film. Alt
 2. The women talk to each other
 3. They talk about something other than a man.
 
-I wanted to explore how movies have evolved over time, and was particularly interested in understanding how female representation has evolved within cinema over time; which genres fare well with the test and which ones fail. I also wanted to explore the correlation between gender of directors and the level of female representation in their films.
+The Bechdel Test adds an interesting layer of data that can be use to understand female representation, or lack thereof, in movies. I wanted to explore how female representation has evolved within cinema over time; for instance, which genres pass the test more often than other and which ones fail. I also wanted to explore the correlation between gender of directors and the level of female representation in their films.
+
+The base dataset consists of 7,100 films.
